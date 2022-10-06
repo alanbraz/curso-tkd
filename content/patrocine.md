@@ -2,8 +2,9 @@
 title: "Patrocine"
 ---
 
-Seja um patrocinador do curso...
+Seja um patrocinador do curso em uma das três categorias abaixo.
 
+Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link href="http://wa.me/551932545006">}}19 3254-5006{{</link>}}
 
 ---
 

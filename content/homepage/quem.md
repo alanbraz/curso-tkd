@@ -1,7 +1,7 @@
 ---
 title: "Instrutores"
-weight: 4
+weight: 6
 header_menu: true
 ---
 
-![domingo](images/instrutores.jpeg)
+![instrutores](images/instrutores.jpeg)

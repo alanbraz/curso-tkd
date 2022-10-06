@@ -1,10 +1,8 @@
 ---
-title: "Quando"
+title: "Data"
 weight: 2
 header_menu: true
 ---
-
-<br/><br/>
 
 ### De 18 à 20 de Novembro de 2022
 
