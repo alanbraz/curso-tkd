@@ -46,4 +46,4 @@ Instituto Mestre Tilico
 |  {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}       | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   |
 
 
-{{<button relref="patrocine">}}Seja um patrocinador deste curso{{</button>}}
+{{<button relref="/patrocine">}}Seja um patrocinador deste curso{{</button>}}
