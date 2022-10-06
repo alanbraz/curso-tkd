@@ -22,7 +22,7 @@ jobs:
           # extended: true
 
       - name: Build
-        run: HUGO_ENV=production hugo --gc --minify -b https://alanbraz.com.br
+        run: HUGO_ENV=production hugo --gc --minify -b https://alanbraz.com.br/curso-tkd/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
