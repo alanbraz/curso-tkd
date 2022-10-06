@@ -4,6 +4,6 @@
   {{ $target = "_blank" }}
 {{ end }}
 {{ with .Get "relref" }}
-  {{ $ref = relref $ . }}
+  {{ $ref = relref $ . | relURL }}
 {{ end }}
 <a {{ with $ref }}href="{{.}}" {{ end }} {{ with $target }} target="{{.}}"{{ if eq $target "_blank" }} rel="noreferrer"{{ end }}{{ end }} class="{{ with .Get "class" }} {{ . }}{{ end }}">{{- .Inner | safeHTML -}}</a>
