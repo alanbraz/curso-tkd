@@ -6,6 +6,11 @@ header_menu: false
 
 ![banner](images/banner.jpeg)
 
+{{<button href="https://www.e-inscricao.com/wonhyo/atualizacao-kukkiwon">}}
+INCRIÇÕES ABERTAS - PRIMEIRO LOTE ATÉ 31/10
+{{</button>}}
+
+
 ### Realização
 
 Instituto Mestre Tilico
