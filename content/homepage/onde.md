@@ -16,4 +16,6 @@ Aula de sexta-feira, 18/11, será no Restaurante Floresta Cultura.
 
 Aulas de sábado e domingo, serão no ginásio de esportes.
 
-<!-- <iframe src="https://embed.waze.com/iframe?zoom=16&lat=-22.878406&lon=-47.053564&ct=livemap" width="600" height="450" allowfullscreen></iframe> -->
+<!-- {{< unsafe-html >}}
+<iframe src="https://embed.waze.com/iframe?zoom=16&lat=-22.892650&lon=-46.994085&ct=livemap" width="100%" height="400" allowfullscreen></iframe>
+{{</ unsafe-html >}} -->

@@ -2,6 +2,7 @@
 title: "Inscrição"
 weight: 6
 header_menu: true
+draft: true
 ---
 
 {{<button href="https://www.e-inscricao.com/wonhyo/atualizacao-kukkiwon">}}
