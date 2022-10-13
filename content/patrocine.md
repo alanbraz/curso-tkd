@@ -16,6 +16,8 @@ title: "Patrocine"
 - Folder nos Clubes esportivos e academias da região de Campinas
 - Camiseta de todos os participantes
 
+---
+
 Seja um patrocinador do curso em uma das categorias abaixo.
 
 Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link href="http://wa.me/551932545006">}}19 3254-5006{{</link>}}
@@ -26,7 +28,7 @@ Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link 
 
 ---
 
-### Planinum
+### Platina
 
 Investimento: R$ 4.000,00
 
