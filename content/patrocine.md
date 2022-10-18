@@ -2,12 +2,22 @@
 title: "Patrocine"
 ---
 
+Seja um patrocinador do curso de atualização para mestres e professores de Taekwondo.
+
+Este curso já foi realizando em Recife - PE em Setembro 2022, e agora será replicado e ampliado com Mestres e Grão Mestres da região de Campinas, São Paulo, Rio de Janeiro e Recife. A expectativa desta edição é de termos 200 participantes presencialmente nos 2 dias e meio de workshop, e mais de 100 espectadores remotamente. No total serão 18h de conteúdo original gerado e transmitido ao vivo, além de publicações nos sites de prefeituras, academias e clubes, posts nas redes socias dos parceiros e lives de divulgação no Youtube e Instragram, com uma estimativa de alcançe de 20.000 pessoas.
+
+[Veja algumas fotos da edição de Recife aqui](https://photos.app.goo.gl/6w68CXYxhno7W3fD9).
+
+[Confira a grade de aulas e instrutores na página de inscrição](https://www.e-inscricao.com/wonhyo/atualizacao-kukkiwon).
+
+Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link href="http://wa.me/551932545006">}}19 3254-5006{{</link>}} para mais informações e eventual interesse.
+
+
 #### Público alvo
 
 - Donos de academia e treinadores de Taekwondo.
 - Alunos interessados em se tornarem professores.
 - Graduados interessados em se certificar no Kukkiwon.
-
 
 #### Contra-partida de exposição da marca
 
@@ -18,11 +28,7 @@ title: "Patrocine"
 
 ---
 
-Seja um patrocinador do curso em uma das categorias abaixo.
-
-Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link href="http://wa.me/551932545006">}}19 3254-5006{{</link>}}
-
----
+Disponibilizamos as seguintes opções:
 
 ## Modalidades e valores
 
@@ -80,4 +86,4 @@ Exposição:
 
 ---
 
-Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link href="http://wa.me/551932545006">}}19 3254-5006{{</link>}} para mais detalhes.
+Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link href="http://wa.me/551932545006">}}19 3254-5006{{</link>}} para mais informações e eventual interesse.
