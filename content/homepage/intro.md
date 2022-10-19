@@ -19,7 +19,7 @@ Instituto Mestre Tilico
 
 | | |
 | :---: | :----: | 
-|  {{<figure src="images/won-hyo.png" link="http://www.tilico.com.br" target="_blank" height="200">}} | {{<figure src="images/strike.png" link="http://www.strikesports.com.br" target="_blank" height="200">}}   |
+|  {{<figure src="images/won-hyo.png" link="http://www.tilico.com.br" target="_blank" height="200" width="100%">}} | {{<figure src="images/strike.png" link="http://www.strikesports.com.br" target="_blank" height="200">}}   |
 
 ### Apoio
 
