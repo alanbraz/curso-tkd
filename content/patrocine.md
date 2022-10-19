@@ -4,12 +4,14 @@ title: "Patrocine"
 
 Seja um patrocinador do curso de atualização para mestres e professores de Taekwondo.
 
+{{< youtube FN4MXYk1WPY >}}
+
 Este curso já foi realizando em Recife - PE em Setembro 2022, e agora será replicado e ampliado com Mestres e Grão Mestres da região de Campinas, São Paulo, Rio de Janeiro e Recife. 
 
 Fotos da Edição de Recife:
 |  |  | 
 | :---:  |    :----:   | 
-| ![palco](../images/foto-recife1.jpeg) | ![participantes](../images/foto-recife2.jpeg) |
+| {{<figure src="../images/foto-recife1.jpeg" link="../images/foto-recife1.jpeg" target="_blank">}} | {{<figure src="../images/foto-recife2.jpeg" link="../images/foto-recife2.jpeg" target="_blank">}} |
 | _Palco_ | _Participantes_ | 
 
 A expectativa desta edição é de termos 200 participantes presencialmente nos 2 dias e meio de workshop, e mais de 100 espectadores remotamente. No total serão 18 horas de conteúdo original gerado e transmitido ao vivo, além de publicações nos sites de prefeituras, academias e clubes, posts nas redes socias dos parceiros e palestrantes; e lives de divulgação no Youtube e Instragram, com uma estimativa de alcançe de 20.000 pessoas.
@@ -17,7 +19,7 @@ A expectativa desta edição é de termos 200 participantes presencialmente nos 
 Local desta edição no Clube Cultura em Campinas.
 |  |  | 
 | :---:  |    :----:   | 
-| ![restaurante](../images/foto-restaurante.jpeg) | ![ginasio](../images/foto-ginasio.jpeg) |
+| {{<figure src="../images/foto-restaurante.jpeg" link="../images/foto-restaurante.jpeg" target="_blank">}} | {{<figure src="../images/foto-ginasio.jpeg" link="../images/foto-ginasio.jpeg" target="_blank">}} |
 | Restaurante: aula teórica de sexta | Ginásio: aulas práticas de sábado e domingo | 
 
 
@@ -76,7 +78,7 @@ Exposição:
 
 | Modelo camiseta | Modelo Painel de fundo | 
 | :---:  |    :----:   | 
-| ![camisetas](../images/camisetas.jpeg) | ![painel](../images/painel.jpeg) |
+| {{<figure src="../images/camisetas.jpeg" link="../images/camisetas.jpeg" target="_blank">}} | {{<figure src="../images/painel.jpeg" link="../images/painel.jpeg" target="_blank">}} |
 
 ---
 
@@ -102,7 +104,7 @@ Exposição:
 * Logo no folder de apresentação do curso. 
 
 Modelo de folder de divulgação:
-![folder](../images/folder.jpeg)
+{{<figure src="../images/folder.jpeg" link="../images/folder.jpeg" target="_blank">}}
 
 ---
 
