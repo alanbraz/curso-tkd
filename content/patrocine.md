@@ -9,7 +9,7 @@ Este curso já foi realizando em Recife - PE em Setembro 2022, e agora será rep
 Fotos da Edição de Recife:
 |  |  | 
 | :---:  |    :----:   | 
-| ![palco](../images/foto-recife1.jpeg) | ![participantes](images/foto-recife2.jpeg) |
+| ![palco](../images/foto-recife1.jpeg) | ![participantes](../images/foto-recife2.jpeg) |
 | _Palco_ | _Participantes_ | 
 
 A expectativa desta edição é de termos 200 participantes presencialmente nos 2 dias e meio de workshop, e mais de 100 espectadores remotamente. No total serão 18 horas de conteúdo original gerado e transmitido ao vivo, além de publicações nos sites de prefeituras, academias e clubes, posts nas redes socias dos parceiros e palestrantes; e lives de divulgação no Youtube e Instragram, com uma estimativa de alcançe de 20.000 pessoas.
@@ -17,7 +17,7 @@ A expectativa desta edição é de termos 200 participantes presencialmente nos 
 Local desta edição no Clube Cultura em Campinas.
 |  |  | 
 | :---:  |    :----:   | 
-| ![restaurante](images/foto-restaurante.jpeg) | ![ginasio](images/foto-ginasio.jpeg) |
+| ![restaurante](../images/foto-restaurante.jpeg) | ![ginasio](../images/foto-ginasio.jpeg) |
 | Restaurante: aula teórica de sexta | Ginásio: aulas práticas de sábado e domingo | 
 
 
@@ -76,7 +76,7 @@ Exposição:
 
 | Modelo camiseta | Modelo Painel de fundo | 
 | :---:  |    :----:   | 
-| ![camisetas](/mages/camisetas.jpeg) | ![painel](images/painel.jpeg) |
+| ![camisetas](../images/camisetas.jpeg) | ![painel](../images/painel.jpeg) |
 
 ---
 
@@ -102,7 +102,7 @@ Exposição:
 * Logo no folder de apresentação do curso. 
 
 Modelo de folder de divulgação:
-![folder](images/folder.jpeg)
+![folder](../images/folder.jpeg)
 
 ---
 
