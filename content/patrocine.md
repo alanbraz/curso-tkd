@@ -4,22 +4,35 @@ title: "Patrocine"
 
 Seja um patrocinador do curso de atualização para mestres e professores de Taekwondo.
 
-Este curso já foi realizando em Recife - PE em Setembro 2022, e agora será replicado e ampliado com Mestres e Grão Mestres da região de Campinas, São Paulo, Rio de Janeiro e Recife. A expectativa desta edição é de termos 200 participantes presencialmente nos 2 dias e meio de workshop, e mais de 100 espectadores remotamente. No total serão 18 horas de conteúdo original gerado e transmitido ao vivo, além de publicações nos sites de prefeituras, academias e clubes, posts nas redes socias dos parceiros e palestrantes; e lives de divulgação no Youtube e Instragram, com uma estimativa de alcançe de 20.000 pessoas.
+Este curso já foi realizando em Recife - PE em Setembro 2022, e agora será replicado e ampliado com Mestres e Grão Mestres da região de Campinas, São Paulo, Rio de Janeiro e Recife. 
 
-[Veja algumas fotos da edição de Recife aqui](https://photos.app.goo.gl/6w68CXYxhno7W3fD9).
+Fotos da Edição de Recife:
+|  |  | 
+| :---:  |    :----:   | 
+| ![camiseta](/images/foto-recife1.jpeg) | ![painel](/images/foto-recife2.jpeg) |
+| _Palco_ | _Participantes_ | 
 
-[Confira a grade de aulas e instrutores na página de inscrição](https://www.e-inscricao.com/wonhyo/atualizacao-kukkiwon).
+A expectativa desta edição é de termos 200 participantes presencialmente nos 2 dias e meio de workshop, e mais de 100 espectadores remotamente. No total serão 18 horas de conteúdo original gerado e transmitido ao vivo, além de publicações nos sites de prefeituras, academias e clubes, posts nas redes socias dos parceiros e palestrantes; e lives de divulgação no Youtube e Instragram, com uma estimativa de alcançe de 20.000 pessoas.
+
+Local desta edição no Clube Cultura em Campinas.
+|  |  | 
+| :---:  |    :----:   | 
+| ![restaurante](/images/foto-restaurante.jpeg) | ![painel](/images/foto-ginasio.jpeg) |
+| Restaurante: aula teórica de sexta | Ginásio: aulas práticas de sábado e domingo | 
+
+
+{{<link href="https://www.e-inscricao.com/wonhyo/atualizacao-kukkiwon">}}Confira a grade de aulas e instrutores na página de inscrição{{</link>}}.
 
 Entre em contato via mensagem no {{<icon class="fa fa-whatsapp">}}&nbsp;{{<link href="http://wa.me/551932545006">}}19 3254-5006{{</link>}} para mais informações e eventual interesse.
 
 
-#### Público alvo
+#### Público alvo do evento
 
 - Donos de academia e treinadores de Taekwondo.
 - Alunos interessados em se tornarem professores.
 - Graduados interessados em se certificar no Kukkiwon.
 
-#### Contra-partida de exposição da marca
+#### Contra-partida de exposição da sua marca
 
 - Reportagens de TVs locais e posts no Youtube
 - Site do cursos e redes sociais dos organizadores
