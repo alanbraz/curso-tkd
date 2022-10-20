@@ -4,51 +4,32 @@ weight: 1
 header_menu: false
 ---
 
-![banner](images/banner.jpeg)
-
 {{<button href="https://www.e-inscricao.com/wonhyo/atualizacao-kukkiwon">}}
 INCRIÇÕES ABERTAS - PRIMEIRO LOTE ATÉ 31/10
 {{</button>}}
 
+![banner](images/banner.jpeg)
 
-### Realização
+### Patrocínio
 
-Instituto Mestre Tilico
+{{<figure src="https://www.clinicordis.com.br/images/logo-wordpress.png" link="https://www.clinicordis.com.br/" target="_blank">}}
 
-### Organização
-
-| | |
-| :---: | :----: | 
-|  {{<figure src="images/won-hyo.png" link="http://www.tilico.com.br" target="_blank" height="200" width="100%">}} | {{<figure src="images/strike.png" link="http://www.strikesports.com.br" target="_blank" height="200">}}   |
+{{<button relref="patrocine">}}Seja um patrocinador deste curso{{</button>}}
 
 ### Apoio
 
 | | |
 | :---:  |    :----:   | 
-|  {{<figure src="images/cultura.png" link="http://www.clubecultura.com.br" target="_blank" height="180">}}       | {{<figure src="images/floresta.png" link="https://web.facebook.com/profile.php?id=100064282894882" target="_blank" height="180">}}   |
+|  {{<figure src="images/cultura.png" link="http://www.clubecultura.com.br" target="_blank" height="160">}}       | {{<figure src="images/floresta.png" link="https://web.facebook.com/profile.php?id=100064282894882" target="_blank" height="160">}}   |
 
-### Patrocinadores
-
-{{<button relref="patrocine">}}Seja um patrocinador deste curso{{</button>}}
-
-#### Ouro
+### Organização
 
 | | |
-| :---:  |    :----:   |   :----:   | 
-|  {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="160">}}       | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="160">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="160">}}   |
+| :---: | :----: | 
+|  {{<figure src="images/won-hyo.png" link="http://www.tilico.com.br" target="_blank" height="180">}} | {{<figure src="images/strike.png" link="http://www.strikesports.com.br" target="_blank" height="180">}}   |
 
+### Realização
 
-#### Prata
-
-| | | |
-| :---:  |    :----:   |   :----:   |  :----:   | 
-|  {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="140">}}       | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="140">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="140">}}   |  {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="140">}}   |
-
-#### Bronze
-
-| | |
-| :---:  |    :----:   |   :----:   | :----:   | :----:   | 
-|  {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}       | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   | {{<figure src="images/strike-gold.jpeg" link="http://www.clubecultura.com.br" target="_blank" height="130">}}   |
-
+**Instituto Mestre Tilico**
 
 {{<button relref="patrocine">}}Seja um patrocinador deste curso{{</button>}}
