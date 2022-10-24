@@ -22,7 +22,7 @@ INCRIÇÕES ABERTAS - PRIMEIRO LOTE ATÉ 31/10
 
 ##### Bronze
 
-{{<figure src="../images/valves.png" link="https://valvesfestas.com" target="_blank" class="patro-bronze">}}
+{{<figure src="images/valves.png" link="https://valvesfestas.com" target="_blank" class="patro-bronze">}}
 
 {{<button relref="patrocine">}}Seja um patrocinador deste curso{{</button>}}
 
