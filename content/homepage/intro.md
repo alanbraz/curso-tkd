@@ -10,6 +10,10 @@ INCRIÇÕES ABERTAS - PRIMEIRO LOTE ATÉ 31/10
 
 ![banner](images/banner.jpeg)
 
+{{< youtube iVAs55hggj8 >}}
+
+<br><br>
+
 ### Patrocínio
 
 ##### Ouro
