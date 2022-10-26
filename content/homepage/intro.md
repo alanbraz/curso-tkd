@@ -20,9 +20,9 @@ INCRIÇÕES ABERTAS - PRIMEIRO LOTE ATÉ 31/10
 
 {{<figure src="https://www.clinicordis.com.br/images/logo-wordpress.png" link="https://www.clinicordis.com.br/" target="_blank" class="patro-ouro">}}
 
-<!-- ##### Prata
+##### Prata
 
-{{<figure src="https://www.sportswift.com.br/novo/wp-content/uploads/2020/02/sport-swift-academia-logo_v4.png" link="https://www.sportswift.com.br/novo/" target="_blank" class="patro-prata">}} -->
+{{<figure src="images/sport-swift.png" link="https://www.sportswift.com.br/novo/" target="_blank" class="patro-prata">}}
 
 ##### Bronze
 
