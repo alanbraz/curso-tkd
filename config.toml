@@ -11,7 +11,8 @@ theme = "hugo-scroll"
 # The "title" of your website
 title = "Curso de atualização de Mestres e Professores de TAEKWONDO"
 
-# googleAnalytics = "G-XXXXXXXX"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "G-8M63DZS7GD" #MEASUREMENT ID
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
