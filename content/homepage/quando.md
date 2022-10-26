@@ -8,6 +8,9 @@ header_menu: true
 INCRIÇÕES ABERTAS - PRIMEIRO LOTE ATÉ 31/10
 {{</button>}}
 
-### De 18 à 20 de Novembro de 2022
+### De 18 à 20 de
+### Novembro de 2022
 
-[Confira agenda completa aqui.](#agenda)
+{{<link href="https://www.e-inscricao.com/wonhyo/atualizacao-kukkiwon">}}
+Confira agenda completa na página de inscrição
+{{</link>}}
