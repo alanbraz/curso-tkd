@@ -163,3 +163,7 @@
   sizes="16x16"
   href="{{ "images/favicon-16x16.png" | absURL }}"
 />
+
+{{ if and (.Site.GoogleAnalytics) (not (in (printf "%#v" .Site.BaseURL) "localhost")) }}
+  {{ template "_internal/google_analytics.html" . }}
+{{ end }}
